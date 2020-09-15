@@ -1,4 +1,14 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="330">
+<h2>Salut, I'm Laurent Clouet</h2>
+<p>Tech Lead / Senior Software Engineer at <a href="https://www.westwing.de/">Westwing</a><br/>
+I'm 🇫🇷 living in 🇵🇱 and working for a 🇩🇪 company.
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurent35240&layout=compact&langs_count=6)](https://github.com/laurent35240/github-readme-stats)
+
+[![Linkedin Badge](https://img.shields.io/badge/-IAmHere-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laurent-clouet-a7ba8721/)](https://www.linkedin.com/in/laurent-clouet-a7ba8721/)
+[![Twitter Badge](https://img.shields.io/badge/-@hereToo-blue?style=flat-square&logo=Twitter&logoColor=white&color=1DA1F2&link=https://twitter.com/laurent35240)](https://twitter.com/laurent35240)
+[![My Badge](https://img.shields.io/badge/-andOnMyWebsite-blue?style=flat-square&logo=Trustpilot&logoColor=white&color=00B67A&link=https://laurent-clouet.fr/)](https://laurent-clouet.fr/)
 
 <!--
 **laurent35240/laurent35240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
