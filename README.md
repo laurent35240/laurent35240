@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="330">
 <h2>Salut, I'm Laurent Clouet</h2>
-<p>Tech Lead / Senior Software Engineer at <a href="https://www.westwing.de/">Westwing</a><br/>
-I'm 🇫🇷 living in 🇵🇱 and working for a 🇩🇪 company.
+<p>Engineering Manager at <a href="https://www.westwing.de/">Westwing</a><br/>
+I'm 🇫🇷 working for a 🇩🇪/🇵🇱 company.
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurent35240&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
