@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="330">
 <h2>Salut, I'm Laurent Clouet</h2>
-<p>Engineering Manager at <a href="https://www.westwing.de/">Westwing</a><br/>
+<p>Director of Engineering at <a href="https://www.westwing.de/">Westwing</a><br/>
 I'm 🇫🇷 working for a 🇩🇪/🇵🇱 company.
 </p>
 
